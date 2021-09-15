@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lottame.github.io/csb-hbq92/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://lottame.github.io/csb-hbq92/static/js/main.c03eaa4b.chunk.js",
+    "main.js.map": "https://lottame.github.io/csb-hbq92/static/js/main.c03eaa4b.chunk.js.map",
+    "runtime-main.js": "https://lottame.github.io/csb-hbq92/static/js/runtime-main.fe8270d3.js",
+    "runtime-main.js.map": "https://lottame.github.io/csb-hbq92/static/js/runtime-main.fe8270d3.js.map",
+    "static/js/2.6487861b.chunk.js": "https://lottame.github.io/csb-hbq92/static/js/2.6487861b.chunk.js",
+    "static/js/2.6487861b.chunk.js.map": "https://lottame.github.io/csb-hbq92/static/js/2.6487861b.chunk.js.map",
+    "index.html": "https://lottame.github.io/csb-hbq92/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://lottame.github.io/csb-hbq92/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6487861b.chunk.js.LICENSE.txt": "https://lottame.github.io/csb-hbq92/static/js/2.6487861b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe8270d3.js",
+    "static/js/2.6487861b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c03eaa4b.chunk.js"
+  ]
+}
